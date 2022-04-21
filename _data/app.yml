@@ -1,21 +1,30 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Kropp.Fit - Intermittent Fasting
+description: Loose weight with no diet by using intermitent fasting.
+full_description: "After an extensive trial & error with different diets, which will always be an on/off process, we discovered that intermittent fasting was the answer we were looking for.
+<br><br>
+Intermittent fasting is a lifestyle, not a diet. This allows you to eat basically whatever you want, but if you apply a basic set of rules, which are meant to keep the total calories intake under control, your health will improve and your body will get into a better shape.
+<br><br>
+So how does intermittent fasting work?
+<br><br>
+Instead of focusing what to eat, intermittent fasting tells you when to eat. With intermittent fasting, you only have a window of time when you are allowed to eat during the day. As you progress through fasting, you can transition from eating a few hours a day, to having alternative days of eating/fasting. Fasting for a certain number of hours each day or eating just one meal a couple days a week, can help your body burn fat. And scientific evidence points to some health benefits, as well.
+<br><br>
+Why do I need Kropp.Fit?
+<br><br>
+If this is the first time you are trying intermittent fasting, then limiting the amount of time you are allowed to eat everyday, can be challenging. Also, it can be harder to remember when it's time to eat, how much time you've been fasting each day. The ultimate goal is to increase your fasting capabilities so that you can have alternative days of fasting, at which point you will no longer need a sidekick app. But maybe you'll love it still :).
+<br><br>
+Kropp.Fit is a intermittent fasting tracker, which provides a Fasting Timer for tracking your fasting performance accross different fasting plans. It will also send you push notifications about your fasting steps.
+<br><br>
+Whenever you finish a fasting session, you are able to log your fasting mood and weight, so that you can see your progress in time on your user profile.
+<br><br>
+Kropp.Fit also contains an integrated water tracking. Hidrating yourself is very important, so we can help you set your daily goals and track your progress to success.
+<br><br>
+We will also provide you with usefull tips about fasting and healthy food recipees in the future. Stay tuned!
+<br><br>
+Love,
+Kropp.Fit"
+android: https://play.google.com/store/apps/details?id=fit.kropp
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
